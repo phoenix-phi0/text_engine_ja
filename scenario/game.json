@@ -1,0 +1,212 @@
+{
+  "title": "承載",
+  "start": "p1",
+  "vars": {},
+  "portraits": {
+    "咲": {
+      "default": "juese2.png",
+      "calm": "juese2_calm.png",
+      "cry": "juese2_cry.png",
+      "yukata": "juese2_yukata.png",
+      "laugh": "juese2_laugh.png",
+      "pain": "juese2_pain.png",
+      "bingfu": "juese2_bingfu.png",
+      "bingfu_pain": "juese2_bingfu_pain.png",
+      "bingfu_cry": "juese2_bingfu_cry.png",
+      "xiazhuang": "juese2_xiazhuang.png"
+    },
+    "结菜": {
+      "default": "juese3.png",
+      "calm": "juese3_calm.png",
+      "cry": "juese3_cry.png",
+      "laugh": "juese3_laugh.png",
+      "yukata": "juese3_yukata.png",
+      "pain": "juese3_pain.png",
+      "bingfu": "juese3_bingfu.png",
+      "bingfu_pain": "juese3_bingfu_pain.png",
+      "bingfu_cry": "juese3_bingfu_cry.png"
+    },
+    "結菜": {
+      "default": "juese3.png",
+      "calm": "juese3_calm.png",
+      "cry": "juese3_cry.png",
+      "laugh": "juese3_laugh.png",
+      "yukata": "juese3_yukata.png",
+      "pain": "juese3_pain.png",
+      "bingfu": "juese3_bingfu.png",
+      "bingfu_pain": "juese3_bingfu_pain.png",
+      "bingfu_cry": "juese3_bingfu_cry.png"
+    },
+    "宫司": "juese_gongsi.png",
+    "宮司": "juese_gongsi.png",
+    "葵": {
+      "default": "juese1.png",
+      "calm": "juese1_calm.png",
+      "cry": "juese1_cry.png",
+      "laugh": "juese1_laugh.png",
+      "yukata": "juese1_yukata.png",
+      "xueshengfu": "juese1_xueshengfu.png",
+      "xueshengfu_calm": "juese1_xueshengfu_calm.png",
+      "xueshengfu_cry": "juese1_xueshengfu_cry.png",
+      "xueshengfu_laugh": "juese1_xueshengfu_laugh.png",
+      "pain": "juese1_pain.png",
+      "yukata_pain": "juese1_yukata_pain.png",
+      "yukata_cry": "juese1_yukata_cry.png",
+      "bingfu": "juese1_bingfu.png",
+      "bingfu_pain": "juese1_bingfu_pain.png",
+      "bingfu_cry": "juese1_bingfu_cry.png",
+      "bingfu_vacant": "juese1_bingfu_vacant.png",
+      "bingfu_calm": "juese1_bingfu_calm.png",
+      "bingfu_laugh": "juese1_bingfu_laugh.png",
+      "xiazhuang": "juese1_xiazhuang.png"
+    },
+    "间宫": "juese_jiluzhe1.png",
+    "間宮": "juese_jiluzhe1.png",
+    "美咲": {
+      "default": "juese_hexin.png"
+    },
+    "结城": "juese_danren.png",
+    "結城": "juese_danren.png",
+    "葉月": "juese_yisheng.png",
+    "麻衣": {
+      "default": "juese_xuesheng1.png",
+      "laugh": "juese_xuesheng1_laugh.png"
+    },
+    "雫": {
+      "default": "juese_wunv1.png",
+      "weak": "juese_wunv1_weak.png"
+    },
+    "薰": {
+      "default": "juese_hexin2.png"
+    },
+    "間瀬": {
+      "default": "juese_waibao_2lei.png"
+    },
+    "间瀬": {
+      "default": "juese_waibao_2lei.png"
+    },
+    "饲部": {
+      "default": "juese_waibao_4lei.png"
+    },
+    "飼部": {
+      "default": "juese_waibao_4lei.png"
+    },
+    "新田": {
+      "default": "juese_jishurenyuan.png"
+    },
+    "藤崎": {
+      "default": "juese_yisheng2.png"
+    },
+    "黒木": {
+      "default": "juese_lengtouqing1.png",
+      "panic": "juese_lengtouqing1_panic.png"
+    },
+    "柏原": {
+      "default": "juese_lengtouqing2.png"
+    },
+    "志摩": {
+      "default": "juese_lengtouqing3.png"
+    },
+    "牧原": {
+      "default": "juese_xinxingzongjiaojiangshi.png"
+    },
+    "护士": {
+      "default": "juese_placeholder.png"
+    },
+    "看護師": {
+      "default": "juese_placeholder.png"
+    },
+    "堀田": {
+      "default": "juese_zhongceng.png"
+    },
+    "千代": {
+      "default": "juese_wunv2.png"
+    },
+    "小夜": {
+      "default": "juese_wunv3.png"
+    },
+    "結衣": {
+      "default": "juese_hexin5.png"
+    },
+    "彩香": {
+      "default": "juese_hexin3.png"
+    },
+    "直子": {
+      "default": "juese_hexin4.png"
+    },
+    "鹿島": {
+      "default": "juese_hiiragi_1.png"
+    },
+    "樋口": {
+      "default": "juese_hiiragi_2.png"
+    },
+    "森下": {
+      "default": "juese_hiiragi_3.png"
+    },
+    "香山": {
+      "default": "juese_houzhuang_2.png"
+    },
+    "佐久間": {
+      "default": "juese_houzhuang_3.png"
+    },
+    "Voss": {
+      "default": "juese_gaiwai_1.png"
+    },
+    "Nadia": {
+      "default": "juese_gaiwai_2.png"
+    },
+    "核心负责人": {
+      "default": "juese_placeholder.png"
+    },
+    "早坂": {
+      "default": "juese_waibao_4lei_2.png"
+    },
+    "仁科": {
+      "default": "juese_waibao_4lei_3.png"
+    },
+    "新人": {
+      "default": "juese_placeholder.png"
+    },
+    "リ・チゲン": {
+      "default": "juese_kuroi_usagi.png",
+      "shuangmawei": "juese_kuroi_usagi_shuangmawei.png",
+      "calm": "juese_kuroi_usagi_calm.png",
+      "cry": "juese_kuroi_usagi_cry.png"
+    }
+  },
+  "chapters": [
+    "prologue.json",
+    "chapter1.json",
+    "chapter2.json",
+    "chapter3.json",
+    "chapter4.json",
+    "chapter5.json",
+    "chapter6.json",
+    "chapter7.json",
+    "chapter8.json",
+    "chapter9.json",
+    "chapter10.json",
+    "chapter11.json",
+    "chapter12.json",
+    "chapter13.json",
+    "chapter14.json",
+    "chapter15.json",
+    "chapter16.json",
+    "chapter17.json",
+    "chapter18.json",
+    "chapter19.json",
+    "chapter20.json",
+    "chapter21.json",
+    "chapter22.json",
+    "chapter23.json",
+    "chapter24.json",
+    "chapter25.json",
+    "chapter26.json",
+    "chapter27.json",
+    "chapter28.json",
+    "chapter29.json",
+    "chapter30.json",
+    "chapter31.json",
+    "chapter32.json"
+  ]
+}
